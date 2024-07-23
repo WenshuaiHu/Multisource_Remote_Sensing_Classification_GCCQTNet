@@ -18,7 +18,7 @@ Please cite our paper if you find the code or dataset useful for your research.
   volume={},<br>
   number={},<br>
   pages={1-15},<br>
-  keywords={Feature extraction;Transformers;Quaternions;Data models;Laser radar;Synthetic aperture radar;Data mining;Attention mechanism;fusion and classification;global consistency;multisource remote sensing data;quaternion;transformer},
+  keywords={Feature extraction;Transformers;Quaternions;Data models;Laser radar;Synthetic aperture radar;Data mining;Attention mechanism;fusion and classification;global consistency;multisource remote sensing data;quaternion;transformer},<br>
   doi={10.1109/TNNLS.2024.3406735}}
 
 # Requirements
