@@ -23,8 +23,8 @@ Please cite our paper if you find the code or dataset useful for your research.
 
 # Requirements
 
-CUDA Version: 11.8
-Pytorch Version: 2.0
-Python Version: 3.10
+CUDA Version: 11.8 <br>
+Pytorch Version: 2.0 <br>
+Python Version: 3.10 <br>
 
 # Note
